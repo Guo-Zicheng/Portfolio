@@ -28,12 +28,13 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Unban Planning
-      tag: Unban Planning
-    - name: Unban analysis
-      tag: Unban analysis
+    - name: Unban Analysis
+      tag: Unban Analysis
     - name: Computational Urban Design
       tag: Computational Urban Designs
+    - name: Unban Planning
+      tag: Unban Planning
+
 
 design:
   columns: '1'

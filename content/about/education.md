@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: MEng Electronic Engineering
+  - title: Barcelona School of Building Construction - EPSEB 
     company: Polytechnic University of Catalonia
     company_url: ''
     company_logo: org-x
@@ -34,14 +34,16 @@ experience:
         * Basketball team
         * DJ club
 
-  - title: Unban Planning,School of Architecture
+  - title: Urban and Rural Planning
     company: Tianjin University
     company_url: ''
     company_logo: org-x
-    location: Tianjin,China
+    location: Tianjin, China
     date_start: '2019-09-01'
-    date_end: '2023-09-01'
-    description: 一些描述
+    date_end: '2024-07-01'
+    description:  |2-
+        * Vice-President of the Student Union of the School of Architecture 2022-2021
+        * Director of the "Voice of TJU" Campus Radio Station
 
 design:
   columns: '1'
