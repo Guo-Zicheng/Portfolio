@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Barcelona, Spain
-    date_start: '2023-09'
-    date_end: '2024-01'
+    date_start: '2023-09-01'
+    date_end: '2024-01-31'
     description: |2-
         * Dissertation on Y
         * Basketball team
@@ -39,8 +39,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Tianjin,China
-    date_start: '2019-09'
-    date_end: '2023-09'
+    date_start: '2019-09-01'
+    date_end: '2023-09-01'
     description: 一些描述
 
 design:
