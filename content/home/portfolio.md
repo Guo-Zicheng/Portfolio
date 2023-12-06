@@ -28,12 +28,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Unban Planning
+      tag: Unban Planning
+    - name: Unban analysis
+      tag: Unban analysis
 
 design:
   columns: '1'

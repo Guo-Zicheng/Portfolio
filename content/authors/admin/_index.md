@@ -8,17 +8,13 @@ superuser: true
 # Role/position
 role: 'student'
 
-# Status emoji
-status:
-  icon: ☕️
-
 # Organizations/Affiliations
 #organizations:
 #- name: 工作/教育地点
 #  url: "添加网址"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 一句话摘要My research interests include Urban Planning and Urban Analysis.
+bio: My research interests include Urban Planning and Urban Analysis.
 
 #interests:
 #- Urban Planning
@@ -66,7 +62,7 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.猪咪是一只小傻猪、小呆猪、小笨猪.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
