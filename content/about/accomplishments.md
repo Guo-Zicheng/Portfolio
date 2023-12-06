@@ -10,14 +10,14 @@ headless: true
 weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'HONOURS&AWARDS'
+title: HONOURS&AWARDS
 subtitle:
 
 # Date format
 #   Refer to https://docs.hugoblox.com/customization/#date-format
 date_format: Jan 2006
 
-# Accomplishments.
+# HONOURS&AWARDS.
 #   Add/remove as many `item` blocks below as you like.
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
