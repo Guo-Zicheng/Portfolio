@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Zicheng Guo
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: ''
+role: 'student'
 
 # Status emoji
 status:
@@ -14,25 +14,25 @@ status:
 
 # Organizations/Affiliations
 #organizations:
-#- name: 腾讯
-#  url: ""
+#- name: 工作/教育地点
+#  url: "添加网址"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 一句话摘要My research interests include Urban Planning and Urban Analysis.
 
 #interests:
-#- Artificial Intelligence
-#- Computational Linguistics
+#- Urban Planning
+#- Urban analysis
 #- Information Retrieval
 
 #education:
 #  courses:
 #  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
+#    institution: UPC
+#    year: 2023
 #  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
+#    institution: Tianjin University
+#    year: 2019-2023
 #  - course: BSc in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2008
