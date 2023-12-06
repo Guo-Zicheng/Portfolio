@@ -32,6 +32,8 @@ content:
       tag: Unban Planning
     - name: Unban analysis
       tag: Unban analysis
+    - name: Computational Urban Design
+      tag: Computational Urban Designs
 
 design:
   columns: '1'
