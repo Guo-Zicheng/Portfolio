@@ -4,5 +4,5 @@ summary: 一些简介
 tags:
   - Unban Analysis
 date: 2023-06-01
-external_link: http://github.com
+external_link: https://notion-next-process-projects.vercel.app/article/Wonder?theme=plog&theme=heo
 ---
