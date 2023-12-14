@@ -34,8 +34,8 @@ experience:
         * Basketball team
         * DJ club
 
-  - title: Urban and Rural Planning
-    company: Tianjin University
+  - title: Tianjin University
+    company: Urban and Rural Planning
     company_url: ''
     company_logo: org-x
     location: Tianjin, China
