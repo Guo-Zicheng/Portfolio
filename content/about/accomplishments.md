@@ -27,7 +27,7 @@ item:
     date_end: ''
     date_start: '2023-11-01'
     description: 一些描述
-    organization: Coursera
+    organization: ''
     organization_url: https://www.coursera.org
     title: Member of The Architectural Society of China
     url: ''
@@ -35,7 +35,7 @@ item:
     date_end: ''
     date_start: '2023-09-01'
     description: National Third Prize
-    organization: edX
+    organization: ''
     organization_url: https://www.edx.org
     title: National University Student Contest on Urban Planning and Design
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
