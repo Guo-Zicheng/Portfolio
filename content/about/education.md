@@ -25,7 +25,7 @@ experience:
   - title: Barcelona School of Building Construction - EPSEB 
     company: Polytechnic University of Catalonia
     company_url: ''
-    company_logo: org-x
+    company_logo: org-UPC
     location: Barcelona, Spain
     date_start: '2023-09-01'
     date_end: '2024-01-31'
@@ -37,13 +37,15 @@ experience:
   - title: Urban and Rural Planning
     company: Tianjin University
     company_url: ''
-    company_logo: org-x
+    company_logo: org-TJU
     location: Tianjin, China
     date_start: '2019-09-01'
     date_end: '2024-07-01'
     description:  |2-
         * Vice-President of the Student Union of the School of Architecture 2022-2021
-        * Director of the "Voice of TJU" Campus Radio Station
+        * Director of the "Voice of TJU" Campus Radio Station 2020-2021
+        * "Building Dreams" Summer Camp Activity 2021-08
+        * "Communities Anti-COVID-19 War" Initiative 2020-08
 
 design:
   columns: '1'
