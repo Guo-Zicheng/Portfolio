@@ -37,7 +37,7 @@ experience:
   - title: Tianjin University
     company: Urban and Rural Planning
     company_url: ''
-    company_logo: org-x
+    company_logo: org-t
     location: Tianjin, China
     date_start: '2019-09-01'
     date_end: '2024-07-01'
