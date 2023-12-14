@@ -25,7 +25,7 @@ experience:
   - title: Barcelona School of Building Construction - EPSEB 
     company: Polytechnic University of Catalonia
     company_url: ''
-    company_logo: org-UPC
+    company_logo: org-x
     location: Barcelona, Spain
     date_start: '2023-09-01'
     date_end: '2024-01-31'
@@ -37,7 +37,7 @@ experience:
   - title: Urban and Rural Planning
     company: Tianjin University
     company_url: ''
-    company_logo: org-TJU
+    company_logo: org-x
     location: Tianjin, China
     date_start: '2019-09-01'
     date_end: '2024-07-01'
