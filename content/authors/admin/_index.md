@@ -40,13 +40,7 @@ bio: My research interests include Urban Planning and Urban Analysis.
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: 'mailto:1930168778@qq.com' # For a direct email link, use "mailto:test@example.org".
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab

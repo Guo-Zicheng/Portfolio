@@ -29,7 +29,7 @@ item:
     description: 一些描述
     organization: ''
     organization_url: https://www.coursera.org
-    title: Member of The Architectural Society of China
+    title: Member of the Architectural Society of China
     url: ''
   - certificate_url: https://www.edx.org
     date_end: ''
