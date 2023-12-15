@@ -1,8 +1,8 @@
 ---
-title: Quantitative Evaluation of Historical Block Building Color Based on Street View Images
-summary: 一些简介
+title: Quantitative Analysis and Perception Correlation of Historic Block Building Color
+summary: Based on Street-View Images
 tags:
   - Unban Analysis
 date: 2023-06-01
-external_link: https://notion-next-process-projects.vercel.app/article/Wonder?theme=plog&theme=heo
+external_link: https://notion-next-process-projects.vercel.app/article/Color?theme=plog
 ---

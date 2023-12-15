@@ -3,7 +3,7 @@ title: Quantitative Computational Urban Design Based on Form Syntax and Street Q
 
 summary: Urban Renewal Design Based on Human-water Co-habitat and Factory-port Continuation
 tags:
-  - Computational Urban Design
+  - Urban Planning
 date: 2022-11-01
-external_link: http://github.com
+external_link: https://notion-next-process-projects.vercel.app/article/Plan?theme=plog
 ---

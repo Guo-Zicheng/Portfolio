@@ -30,10 +30,10 @@ content:
       tag: '*'
     - name: Unban Analysis
       tag: Unban Analysis
-    - name: Computational Urban Design
-      tag: Computational Urban Designs
-    - name: Unban Planning
-      tag: Unban Planning
+    - name: Urban Planning
+      tag: Urban Planning
+    - name: Unban Design
+      tag: Unban Design
 
 
 design:

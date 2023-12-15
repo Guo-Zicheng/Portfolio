@@ -1,8 +1,8 @@
 ---
-title: Project3
-summary: 一些简介
+title: Urban Informal Green Spaces (IGS) Renewal Strategies
+summary: For Micro-Climate Improvement Based on Deep Learning
 tags:
   - Unban Analysis
 date: 2022-01-01
-external_link: http://github.com
+external_link: https://notion-next-process-projects.vercel.app/article/IGS?theme=plog
 ---

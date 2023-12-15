@@ -1,8 +1,8 @@
 ---
-title: Project2
-summary: 一些简介
+title: Urban Micro-Renewal Strategies
+summary: For Micro-Climate Improvement Based on 'Wind-Solar-Thermal' Simulation
 tags:
   - Unban Analysis
 date: 2022-01-01
-external_link: http://github.com
+external_link: https://notion-next-process-projects.vercel.app/article/UTCI?theme=plog
 ---
