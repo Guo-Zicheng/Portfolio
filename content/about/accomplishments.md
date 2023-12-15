@@ -36,7 +36,9 @@ item:
     date_start: '2023-09-01'
     description: National Third Prize
     organization: ''
+---
     organization_url: {{< figure src="icon.jpg" caption="标题" numbered="true" >}}
+---
     title: National University Student Contest on Urban Planning and Design
     url: ''
 
