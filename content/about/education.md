@@ -25,7 +25,7 @@ experience:
   - title: Tianjin Province Urban Planning and Design Institute
     company: Assistant Rural Planner
     company_url: ''
-    company_logo: ''
+    company_logo: 'tgy.png'
     location: Rural Planning of Changpu Town
     date_start: '2023-06-01'
     date_end: '2023-08-01'
