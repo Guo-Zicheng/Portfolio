@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Internship
+title: Education
 subtitle:
 
 # Date format for experience
@@ -22,21 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Assistant Rural Planner
-    company: Tianjin Province Urban Planning and Design Institute
+  - title: Polytechnic University of Catalonia
+    company: Barcelona School of Building Construction - EPSEB
     company_url: ''
-    company_logo: org-T
-    location: Rural Planning of Changpu Town
-    date_start: '2023-06-01'
-    date_end: '2023-08-01'
+    company_logo: org-x
+    location: Barcelona, Spain
+    date_start: '2023-09-01'
+    date_end: '2024-01-31'
     description: |2-
-        Responsibilities include:
-        
-        * Recognized the outlines and heights of rural buildings automatically utilizing Mapflow plugin in QGIS.
-        * Optimized the layout of rural settlement points based on ARSA multi-agent model and spatial gravity model in NetLogo.
-        * Optimized the layout of infrastructure facility points based on accessibility analysis utilizing UNA Toolbox (by City Form Lab) in ArcGIS. 
-        * Collaboratively created land-use database by ArcGIS, and calculated various indicators such as agricultural, ecological, and construction spatial attributes.        
-        * Independently created key drawings of Changpu Town by ArcGIS, including land-use plan, site plan, transportation route plan, infrastructure facilities plan, etc.
+        * Exchange program
+
+  - title: Tianjin University
+    company: Urban and Rural Planning
+    company_url: ''
+    company_logo: org-xx
+    location: Tianjin, China
+    date_start: '2019-09-01'
+    date_end: '2024-07-01'
+    description:  |2-
+        * GPA: 87.49/100
+        * Vice-President of the Student Union in the Architecture Faculty
         
 
 design:
