@@ -62,8 +62,8 @@ social:
 #email: ""
 ---
 
-猪咪是一只小傻猪、小呆猪、小笨猪.
+一些描述
 
-而且是小哭包！
+一些介绍
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
