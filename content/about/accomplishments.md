@@ -26,7 +26,7 @@ item:
   - certificate_url: https://www.coursera.org
     date_end: ''
     date_start: '2023-11-01'
-    description: 一些描述
+    description: ''
     organization: ''
     organization_url: https://www.coursera.org
     title: Member of the Architectural Society of China
@@ -36,9 +36,9 @@ item:
     date_start: '2023-09-01'
     description: National Third Prize
     organization: ''
-    organization_url: https://www.edx.org
+    organization_url: {{< figure src="icon.jpg" caption="标题" numbered="true" >}}
     title: National University Student Contest on Urban Planning and Design
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    url: ''
 
 design:
   columns: '1'
