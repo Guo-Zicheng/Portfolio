@@ -28,7 +28,7 @@ item:
     date_start: '2023-11-01'
     description: ''
     organization: ''
-    organization_url: https://www.coursera.org
+    organization_url: ''
     title: Member of the Architectural Society of China
     url: ''
   - certificate_url: https://www.edx.org
