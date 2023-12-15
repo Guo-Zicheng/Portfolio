@@ -31,7 +31,7 @@ item:
     organization_url: ''
     title: Member of the Architectural Society of China
     url: ''
-  - certificate_url: https://www.edx.org
+  - certificate_url: /assets/media/icon.png
     date_end: ''
     date_start: '2023-09-01'
     description: National Third Prize
