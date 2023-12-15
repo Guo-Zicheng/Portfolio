@@ -6,7 +6,7 @@ title: Zicheng Guo
 superuser: true
 
 # Role/position
-role: 'student'
+role: ''
 
 # Organizations/Affiliations
 #organizations:
