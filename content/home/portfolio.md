@@ -38,8 +38,7 @@ content:
 
 design:
   columns: '1'
-  view: list
-  flip_alt_rows: faulse
+  view: masonry
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
 ---
