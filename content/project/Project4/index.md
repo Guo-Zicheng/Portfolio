@@ -1,5 +1,5 @@
 ---
-title: 4. Controlled Planning and Generative Design
+title: 4.Controlled Planning and Generative Design
 summary: Urban Renewal Design Based on Human-water Co-habitat and Factory-port Continuation
 tags:
   - Urban Planning

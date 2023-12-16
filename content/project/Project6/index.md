@@ -1,5 +1,5 @@
 ---
-title: 6. Where Wishes All Come True - A Journey In Wonderland
+title: 6.Where Wishes All Come True - A Journey In Wonderland
 summary: Urban Renewal Design Based on Multi-sensory Exploration and Hydro-Urban Interplay
 tags:
   - Unban Design
