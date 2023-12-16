@@ -1,5 +1,5 @@
 ---
-title: Boundless Creative Bay Linking City to Yangtze
+title: 6.Boundless Creative Bay Linking City to Yangtze
 summary: Urban Renewal Design Based on Human-water Co-habitat and Factory-port Continuation
 tags:
   - Unban Design

@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: ''
     date_end: ''
     date_start: '2023-11-01'
     description: ''
@@ -31,12 +31,12 @@ item:
     organization_url: ''
     title: Member of the Architectural Society of China
     url: ''
-  - certificate_url: <img src="/assets/media/icon.png">
+  - certificate_url: <img src="/GUO-ZICHENG[CODESPACES:DIDACTIC CAPYBARA]/assets/media/icon.png">
     date_end: ''
     date_start: '2023-09-01'
     description: National Third Prize
     organization: ''
-    organization_url: /assets/media/icon.png
+    organization_url: ''
     title: National University Student Contest on Urban Planning and Design
     url: ''
 

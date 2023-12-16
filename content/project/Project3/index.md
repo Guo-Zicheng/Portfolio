@@ -1,5 +1,5 @@
 ---
-title: Urban Informal Green Spaces (IGS) Renewal Strategies
+title: 3.Urban Informal Green Spaces (IGS) Renewal Strategies
 summary: For Micro-Climate Improvement Based on Deep Learning
 tags:
   - Unban Analysis
