@@ -3,6 +3,17 @@
 # This section displays content from `content/project/`.
 # See https://docs.hugoblox.com/widget/portfolio/
 widget: portfolio
+content:
+  # Page type to display. E.g. project.
+  page_type: project
+
+  # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+  filter_default: 0
+
+  # Sort the projects by their file names in ascending order.
+  sort_by: "name"
+  
+  # Filter toolbar (optional)...
 
 # This file represents a page section.
 headless: true
