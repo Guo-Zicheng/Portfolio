@@ -39,7 +39,7 @@ content:
 design:
   columns: '1'
   view: masonry
-  flip_alt_rows: true
+  flip_alt_rows: faulse
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
 ---

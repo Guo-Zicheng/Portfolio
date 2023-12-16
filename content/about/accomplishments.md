@@ -31,7 +31,7 @@ item:
     organization_url: ''
     title: Member of the Architectural Society of China
     url: ''
-  - certificate_url: <img src="/GUO-ZICHENG[CODESPACES:DIDACTIC CAPYBARA]/assets/media/icon.png">
+  - certificate_url: '' 
     date_end: ''
     date_start: '2023-09-01'
     description: National Third Prize
