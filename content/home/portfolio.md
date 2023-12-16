@@ -11,7 +11,7 @@ content:
   filter_default: 0
 
   # Sort the projects by their file names in ascending order.
-  sort_by: "name"
+  sort_by: "title"
   
   # Filter toolbar (optional)...
 
