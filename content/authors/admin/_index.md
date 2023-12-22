@@ -56,8 +56,6 @@ social:
 #email: ""
 ---
 
-一些描述
-
-一些介绍
+Welcome to visit my homepage!
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
