@@ -40,7 +40,7 @@ bio: My research interests include Urban Planning and Urban Analysis.
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:ercha.chen@gmail.com' # For a direct email link, use "mailto:test@example.org".
+    link: 'mailto:Guo-Zicheng@outlook.com' # For a direct email link, use "mailto:test@example.org".
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
