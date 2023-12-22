@@ -41,7 +41,6 @@ experience:
     date_end: '2024-07-01'
     description:  |2-
         * GPA: 87.49/100
-        * Vice-President of the Student Union in the Architecture Faculty
         
 
 design:

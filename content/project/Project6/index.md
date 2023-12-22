@@ -1,8 +1,8 @@
 ---
-title: 6.Where Wishes All Come True - A Journey In Wonderland
-summary: Urban Renewal Design Based on Multi-sensory Exploration and Hydro-Urban Interplay
+title: 6.Boundless Creative Bay Linking City to Yangtze
+summary: Urban Renewal Design Based on Human-water Co-habitat and Factory-port Continuation
 tags:
   - Unban Design
 date: 2023-07-01
-external_link: https://notion-next-process-projects.vercel.app/article/Jrny?theme=plog
+external_link: https://notion-next-process-projects.vercel.app/article/Bay?theme=plog
 ---

@@ -1,8 +1,8 @@
 ---
-title: 5.Status Evaluation and Spatial Planning
-summary: Of Low Urbanization County Based on Multi-Source Data
+title: 5.Where Wishes All Come True - A Journey In Wonderland
+summary: Urban Renewal Design Based on Multi-sensory Exploration and Hydro-Urban Interplay
 tags:
-  - Urban Planning
-date: 2022-07-01
-external_link: https://notion-next-process-projects.vercel.app/article/Plan?theme=plog
+  - Unban Design
+date: 2023-07-01
+external_link: https://notion-next-process-projects.vercel.app/article/Jrny?theme=plog
 ---
