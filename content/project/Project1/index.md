@@ -1,6 +1,6 @@
 ---
-title: 1.Quantitative Analysis and Perception Correlation of Historic Block Building Color
-summary: Based on Street-View Images
+title: 1.Quantitative Analysis and Perception Correlation of Building Color
+summary: Based on Computer Vision in Street-View Images
 tags:
   - Unban Analysis
 date: 2023-06-01
